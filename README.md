@@ -26,7 +26,7 @@ I am a 4th-year student bridging the gap between **Software Development** and **
 ---
 
 ### 🏆 Certifications & Milestones
-- **Cisco Certified Network Associate (CCNA)** - *Coursework Completed (ITN & SRWE)*
+- **Cisco Certified Network Associate (CCNA)** - *Coursework Completed (ITN, SRWE & ENSA)*
 - **Hack4Gov Regional Qualifiers 2025** - *Participant*
 - **NetAcad Riders 2025** - *Participant*
 
