@@ -59,5 +59,7 @@ I am a 4th-year Information Technology student building a versatile foundation i
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GarcianoNilo&show_icons=true&theme=transparent&hide_border=true&title_color=003f87&text_color=333333&icon_color=003f87" alt="Nilo's GitHub Stats" />
+
+[![Nilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GarcianoNilo&show_icons=true&theme=transparent&hide_border=true&title_color=003f87&text_color=333333&icon_color=003f87)](https://github.com/GarcianoNilo)
+
 </div>
