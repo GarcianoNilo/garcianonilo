@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Nilo Garciano Jr.! 👋</h1>
-  <h3>BSIT Student @ Bukidnon State University | Software Developer | Aspiring Red Teamer</h3>
+  <h3>BSIT Student @ Bukidnon State University | Software Developer | Aspiring Red Teamer | AI Automation Specialist</h3>
   <p>Bridging the gap between Software Development, Network Security, and Digital Design.</p>
   
   [![Portfolio](https://img.shields.io/badge/View_My_Portfolio-003f87?style=for-the-badge&logo=Web&logoColor=white)](https://garcianonilo.github.io/Portfolio/)
