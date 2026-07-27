@@ -96,7 +96,7 @@ I'm a software developer focused on building AI-powered products and automation 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="[https://github-readme-stats-six-rho-19.vercel.app/api?username=GarcianoNilo&show_icons=true&theme=transparent&hide_border=true" alt="Nilo's GitHub Stats" />
+  <img src="https://github-readme-stats-six-rho-19.vercel.app/api?username=GarcianoNilo&show_icons=true&theme=transparent&hide_border=true" alt="Nilo's GitHub Stats" />
   <img src="https://github-readme-stats-six-rho-19.vercel.app/api/top-langs/?username=GarcianoNilo&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
