@@ -6,8 +6,8 @@
 
 Building AI-powered applications, automation systems, and cross-platform experiences.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-003f87?style=for-the-badge&logo=googlechrome&logoColor=white)](https://garcianonilo.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilo-garciano-jr-807a9b279/)
+<a href="https://garcianonilo.github.io/Portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-003f87?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/nilo-garciano-jr-807a9b279/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -96,10 +96,8 @@ I'm a software developer focused on building AI-powered products and automation 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=GarcianoNilo&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GarcianoNilo&layout=compact&theme=transparent&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=GarcianoNilo&show_icons=true&theme=transparent&hide_border=true" alt="Nilo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarcianoNilo&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
